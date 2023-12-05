@@ -4,4 +4,4 @@
 --For user login see script.js
 --For tenant, example username - 'Aksh', password - 'Ishika'
 --For staff, username - 'staff', password - 'staffpass'
---For manager, username - 'manager', password - 'managerpass'
+--For manager, username - 'Naman', password - 'managerpass'
